@@ -13,7 +13,7 @@ Real-time token generation speed display for [pi](https://github.com/mariozechne
 The easiest way is via `pi install`:
 
 ```bash
-pi install https://github.com/fernandez14/pi-agent-token-stats
+pi install https://github.com/fernandez14/pi-agent-tokens-per-second
 ```
 
 Or copy manually into your pi extensions directory:
